@@ -40,16 +40,19 @@ MAP.HTML
 <font color="purple"><b>GEETHAPRIYAN A S(24900874)</b></font>
 </h3>
 <center>
-<img src="C:\Users\admin\Pictures\Screenshots\Screenshot 2024-12-04 102706.png" usemap="#MyCity">
+<img src="map2.png" usemap="#MyCity">
 <map name="MyCity">
-<area shape="rect" coords="1113,563,1327,747" href="home.html" title="My Home (Mangala Nagar)">
-<area shape="circle" coords="1135,340,100" href="Temple.html" title="Temple">
-<area shape="circle" coords="1278,444,103" href="Shopping_Mall.html" title="Shopping_Mall">
-<area shape="circle" coords="1803,508,100" href="College.html" title="College">
-<area shape="circle" coords="856,410,1059,541" href="theatre.html" title="theatre">
+    <area target="_blank" alt="rohini theatre" title="rohini theatre" href="theatre.html" coords="1296,464,1077,390" shape="rect">
+    <area target="" alt="murugan temple" title="murugan temple" href="temple.html" coords="1433,725,1624,862" shape="rect">
+    <area target="_blank" alt="" title="" href="pitshop.html" coords="472,52,663,120" shape="rect">
+    <area target="" alt="college" title="college" href="college.html" coords="77,627,296,740" shape="rect">
+    <area target="" alt="home" title="home" href="home.html" coords="1414,258,1553,346" shape="rect">
 </center>
 </body>
 </html>
+
+
+
 
 ```
 HOME.HTML
@@ -60,7 +63,7 @@ HOME.HTML
 </head>
 <body bgcolor="#fff3e0">
 <h1 align="center">
-<font color="#36454F"><b>VADAPALANI</b></font>
+<font color="#36454F"><b>ANNA NAGAR</b></font>
 </h1>
 <h3 align="center">
 <font color="#FFD700"><b>My Home Town</b></font>
@@ -68,7 +71,7 @@ HOME.HTML
 <hr size="3" color="#ffccbc">
 <p align="justify">
 <font face="Georgia" size="5" color="#212121">
-     vadapalani in koyambedu is very peaceful.residential area that offers a perfect blend of modern amenities and natural beauty. The locality is known for its friendly, close-knit community, where neighbors know each other well. With plenty of greenery, open spaces, and parks, it provides a calm environment away from the hustle and bustle of city life. The area is well-connected to major roads and public transport, making it easy to commute to other parts of Chennai. Local shops and markets offer everyday conveniences, while nearby schools and hospitals add to its appeal. The Porur Lake is a popular spot for relaxation and outdoor activities. Mangala Nadar is ideal for families, offering a safe, family-oriented atmosphere. The growing infrastructure and development around the area continue to improve living standards. The sense of community and cultural ties make Mangala Nadar a truly special place. It’s a great place to call home, offering both tranquility and convenience.
+     annanagar in koyambedu is very peaceful.residential area that offers a perfect blend of modern amenities and natural beauty. The locality is known for its friendly, close-knit community, where neighbors know each other well. With plenty of greenery, open spaces, and parks, it provides a calm environment away from the hustle and bustle of city life. The area is well-connected to major roads and public transport, making it easy to commute to other parts of Chennai. Local shops and markets offer everyday conveniences, while nearby schools and hospitals add to its appeal. The Porur Lake is a popular spot for relaxation and outdoor activities. Mangala Nadar is ideal for families, offering a safe, family-oriented atmosphere. The growing infrastructure and development around the area continue to improve living standards. The sense of community and cultural ties make Mangala Nadar a truly special place. It’s a great place to call home, offering both tranquility and convenience.
 
 </font>
 </p>
@@ -76,23 +79,8 @@ HOME.HTML
 </html>
 
 
-</font>
-</p>
-</body>
-</html>
 
 
-
-</font>
-</p>
-</body>
-</html>
-
-
-</font>
-</p>
-</body>
-</html>
 
 ```
 TEMPLE.HTML
@@ -118,6 +106,8 @@ TEMPLE.HTML
 </p>
 </body>
 </html>
+
+
 
 ```
 THEATRE.HTML
@@ -145,8 +135,9 @@ THEATRE.HTML
 </body>
 </html>
 
+
 ```
-SHOPPINGMALL.HTML
+PITSHOP.HTML
 ```
 <html>
 <head>
@@ -154,37 +145,31 @@ SHOPPINGMALL.HTML
 </head>
 <body bgcolor="#fff3e0">
 <h1 align="center">
-<font color="#d32f2f"><b>Shopping Mall</b></font>
+<font color="#d32f2f"><b>TTF PITSHOP</b></font>
 </h1>
 <h3 align="center">
-<font color="#0288d1"><b>VR MALL - Chennai's Top Retail Destination</b></font>
+<font color="#0288d1"><b>FAMOUS FOR BIKE ACCESSORIES</b></font>
 </h3>
 <hr size="3" color="#ffccbc">
 <p align="justify">
 <font face="Georgia" size="5" color="#212121">
 
-    A Shopping Paradise in the Heart of Chennai."
-    VR Mall at Koyambedu is known for offering a wide range of shopping, dining, and entertainment options, making it a favorite destination for locals and tourists alike.
-    
-    "Where Shopping Meets Entertainment."
-    With various stores, a multiplex, and leisure facilities, VR Mall is not just a shopping center but an entertainment hub too.
-
+    TTF Pitshop is a popular automotive service and accessories shop that specializes in providing high-quality products and services for car enthusiasts. Known for its wide range of automotive parts, performance accessories, and customization services, TTF Pitshop caters to a variety of customer needs, from car repairs to upgrades. The shop is recognized for its expertise in enhancing vehicle performance and aesthetics, offering professional consultation and a customer-friendly experience. Whether it's tuning, spare parts, or vehicle enhancements, TTF Pitshop stands out for its commitment to quality and customer satisfaction.
 </font>
 </p>
 </body>
 </html>
+
 ```
 
 
-
-
-## OUTPUT
-![alt text](<Screenshot 2024-12-10 101411.png>)
-![alt text](<Screenshot 2024-12-10 101313.png>)
-![alt text](<Screenshot 2024-12-10 101244.png>)
-![alt text](<Screenshot 2024-12-10 101224-1.png>)
-![alt text](<Screenshot 2024-12-10 101009.png>)
-
+OUTPUT
+![alt text](<varshini2/map for ex 4.png>)
+![alt text](varshini2/college.png)
+![alt text](varshini2/home.html.png)
+![alt text](<varshini2/rohini theatre.png>)
+![alt text](varshini2/pitshop.png)
+![alt text](varshini2/temple.png)
 
 
 ## RESULT
